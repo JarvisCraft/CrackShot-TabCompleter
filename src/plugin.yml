@@ -1,0 +1,6 @@
+name: CrackShotTabCompleter
+version: 1.0
+description: 'This plugin is made simply to support Tab-Complete for your CrackShot plugin.'
+author: PROgrm_JARvis (JARvis (Пётр) PROgrammer)
+main: ru.progrm_jarvis.crackshottabcompleter.CrackShotTabCompleterPlugin
+depend: [CrackShot]
